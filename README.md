@@ -1,4 +1,4 @@
-# CoffeenzaDroid
+# CoffeenzaPump
 Управляющее Android-приложение для кофейного поддона.
 
 # Архитектура решения
