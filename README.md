@@ -1,5 +1,7 @@
 # CoffeenzaPump
-Управляющее Android-приложение для кофейного поддона. Центральное звено эко-системы Coffeenza.
+Управляющее Android-приложение для кофейного поддона. 
+
+*Центральное звено эко-системы Coffeenza!*
 
 # Архитектура решения
 ## [Поддон - Tray](https://github.com/LittleCthulhu/CoffeenzaTray)
